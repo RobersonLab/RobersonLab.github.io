@@ -1,0 +1,95 @@
+body {
+font-family: "Source Sans Pro","Lucida Console",sans-serif;
+/*font-family: Georgia,"Times New Roman",serif;*/
+font-size: 100%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+font-family: "Source Code Pro","Lucida Console","Verdana",sans-serif;
+}
+
+
+h1 {
+color: #336600;
+}
+
+h2, h3, h4, h5, h6 {
+color: #0000CC;
+}
+
+h3 {
+text-decoration: underline;
+}
+
+.center {
+text-align: center;
+}
+
+#h1nopad {
+margin-top: 0;
+}
+
+#header {
+position: absolute;
+width: 100%;
+height: 140px;
+top: 0;
+right: 0;
+left: 0;
+bottom: 140px;
+text-align: center;
+font-size: 1.5em;
+background-color: #C2FFC2; /*#CCFF99;*/
+margin: 10px;
+padding: 10px;
+border-radius: 1em;
+}
+
+#maintext {
+position: absolute;
+width: auto;
+height: auto;
+top: 140px;
+left: 11em;
+right: 11em;
+margin: 2em;
+padding-top: 0.5em;
+padding-bottom: 1.5em;
+padding-left: 0.5em;
+padding-right: 0.5em;
+}
+
+#sidebar {
+position: absolute;
+width: 11em;
+height: auto;
+top: 140px;
+left: 0;
+right: 11em;
+margin: 2em;
+padding-top: 0.5em;
+padding-bottom: 1.5em;
+padding-left: 0.5em;
+padding-right: 0.5em;
+text-align: center;
+}
+
+li {
+margin-bottom: 1.5em;
+}
+
+span.reverse {
+unicode-bidi: bidi-override;
+direction: rtl;
+}
+
+#people {
+width: 250px;
+height: 250px;
+/*border: solid 1px black;*/
+display: inline-block;
+padding: 5px;
+/*margin: 0 auto;*/
+text-align: center;
+}
