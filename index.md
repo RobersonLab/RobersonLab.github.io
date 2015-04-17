@@ -1,28 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-
-<html>
-
-<head>
-<title>Roberson Lab - Research</title>
-<link rel="stylesheet" type="text/css" href="css/main.css">
-<meta name="author" content="Roberson Lab">
-<meta name="description" content="In the Roberson Lab we use human genetics and molecular biology to study human disease.">
-<meta name="keywords" content="Roberson, Lab, Human Genetics, hidradenitis suppurativa, hidradenitis, rheumatology, sequencing, genomics">
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-</head>
-
-<body>
-
-<div id="header">
-<img src="images/RobersonLabHeader_v02.png" alt="Header img" width="285px" height="110px"><br>
-<a href="index.html">Research</a> | <a href="philosophy.html">Philosophy</a> | <a href="people.html">People</a> | <a href="eli.html">Eli</a>
-</div>
-
-<div id="sidebar">
-<img src="images/pedigree.png" alt="disease pedigree image" width="124px" height="53px"><br><br>
-<img src="images/cells_gfp.jpg" alt="GFP expressing human cells" width="115px" height="96px"><br><br>
-<img src="images/small_cano.png" alt="volcano plot" width="125px" height="161px">
-</div>
+---
+title: Home
+layout: main
+description: Main lab website page
+---
 
 <div id="maintext">
 <blockquote>
@@ -48,8 +28,3 @@ We use statistics and bioinformatics techniques in our research. For statistical
 <h1>RDCC Genetics Core</h1>
 Eli co-directs the Genetics Core component of the Washington University Rheumatic Disease Core Center with a focus on human genetics and molecular biology. We can provide general advice, experimental design assistance, data analysis, long-term data storage and contract lab work. Priority will be given to projects related to Rheumatic disease. A portion of lab effort is offset by the Core to provide protected time to collaborate with other laboratories. Please contact us if you would like to discuss potential projects.
 
-</div>
-
-</body>
-
-</html>

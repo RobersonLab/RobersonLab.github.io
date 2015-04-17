@@ -1,22 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-
-<html>
-
-<head>
-<title>Roberson Lab - Lab Philosophy</title>
-<link rel="stylesheet" type="text/css" href="css/main.css">
-<meta name="author" content="Roberson Lab">
-<meta name="description" content="Lab style and expectations for staff, trainees and the PI.">
-<meta name="keywords" content="Roberson, Lab, Human Genetics, philosophy, expectations">
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-</head>
-
-<body>
-
-<div id="header">
-<img src="images/RobersonLabHeader_v02.png" alt="Header img" width="285px" height="110px"><br>
-<a href="index.html">Research</a> | <a href="philosophy.html">Philosophy</a> | <a href="people.html">People</a> | <a href="eli.html">Eli</a>
-</div>
+---
+title: Lab Philosophy
+layout: page
+---
 
 <div id="maintext">
 <h1 id="h1nopad" class="center">General Expectations</h1>
@@ -99,8 +84,3 @@ Technicians and staff scientists make the lab go round. Everyone is going to rel
 <h2 class="center">Eli</h2>
 I will work to keep this lab funded and producing good research. I will help you get the reagents and equipment you need for your experiments. I will help you learn to design strong experiments and interpret the results. I will do my best to make you a talented, critical, and fair scientist. I will help you learn how to write papers, reviews, and grants. I will push you out of your comfort zone and support you during the qualifying exams, thesis defenses, seminars, platform presentations, and job talks. I will help prepare you for your preferred career path, regardless of where you want it to lead. I will help you through the failures and congratulate you on your successes, both in the lab and out. I will be honest with you, and expect you to tell me when you need help. You are more than the research that you do in the lab. You can be sure that I care about your life goals and overall happiness. 
 
-</div>
-
-</body>
-
-</html>

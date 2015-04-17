@@ -1,22 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-
-<html>
-
-<head>
-<title>Roberson Lab - PI</title>
-<link rel="stylesheet" type="text/css" href="css/main.css">
-<meta name="author" content="Roberson Lab">
-<meta name="description" content="Contact info for the Roberson Lab PI.">
-<meta name="keywords" content="Roberson, Eli, Elisha, Lab, Human Genetics, contact">
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-</head>
-
-<body>
-
-<div id="header">
-<img src="images/RobersonLabHeader_v02.png" alt="Header img" width="285px" height="110px"><br>
-<a href="index.html">Research</a> | <a href="philosophy.html">Philosophy</a> | <a href="people.html">People</a> | <a href="eli.html">Eli</a>
-</div>
+---
+title: PI
+description: Contact info for PI
+layout: page
+---
 
 <div id="sidebar">
 <br><img src="images/people/pi.jpg" alt="PI pic" width="125px" height="172px">
@@ -75,7 +61,4 @@ CSRB 10004A<br>
 <li><strong>Roberson EDO</strong> and Bowcock AM. Psoriasis genetics: breaking the barrier. Trends in Genetics 2010: 26(9): 415-423. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957827">PMC2957827</a>.</li>
 </ol>
 
-</div>
 
-</body>
-</html>
