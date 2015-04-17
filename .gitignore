@@ -3,4 +3,6 @@ Thumbs.db
 .DS_Store
 .rbenv-version
 .rvmrc
+Gemfile
+Gemfile.lock
 
