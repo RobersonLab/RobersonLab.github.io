@@ -1,0 +1,7 @@
+highlighter: pygments
+safe: true
+lsi: false
+production_url: http://www.robersonlab.org
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Gemfile", "Gemfile.lock"]
+
