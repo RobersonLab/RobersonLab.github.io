@@ -19,11 +19,18 @@ Postdoc<br>
 Bioinformatics Padawan
 </div>
 
-<h1 id="h1nopad" class="center">Research Assistants</h1>
+<h1 id="h1nopad" class="center">Bioinformatics Master's Program Interns and Research Assistants</h1>
 <div id="people">
 <img src="images/people/nicole_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.S.B ,murtsegreF elociN</strong> </span><br>
 Part-time Research Assistant<br>
+WUStL Masters Student
+</div>
+
+<div id="people">
+img src="images/people_tday_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
+<span class="reverse"> <strong>.S.B ,yaD relyT</strong></span><br>
+Part-time Research Intern<br>
 WUStL Masters Student
 </div>
 
