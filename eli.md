@@ -51,7 +51,7 @@ CSRB 10004A<br>
 <li><strong>Roberson EDO</strong>, Wohler ES, Hoover-Fong JE, Lisi E, Stevens EL, Thomas GS, Leonard J, Hamosh A, Pevsner J. Genomic analysis of partial 21q monosomies with variable phenotypes. Eur J Hum Genet. 2010: 19(2): 235-238. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025784/">PMC3025784</a>.</li>
 <li>Harbour JW, Onken MD, <strong>Roberson EDO</strong>, Duan S, Cao L, Worley LA, Council ML, Matatall KA, Helms C, Bowcock AM. Frequent mutations of <i>BAP1</i> in metastasizing uveal melanomas. Science 2010: 330(6009): 1410-1413. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087380/">PMC3087380</a>.</li>
 <li><strong>Roberson EDO</strong><sup>&dagger;</sup>, Liu Y<sup>&dagger;</sup>, Ryan C, Joyce CE, Duan S, Cao L, Martin A, Liao W, Menter A, Bowcock AM. A subset of methylated CpG sites differentiate psoratic from normal skin. Journal of Investigative Dermatology 2011: 132(3 Pt 1): 583-592. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568942/">PMC3568942</a>.</li>
-<li><strong>Roberson EDO</strong>. Identification of high-efficiency 3GG gRNA motifs in indexed FASTA files with ngg2. <a href="https://peerj.com/articles/cs-33.pdf">PeerJ Computer Science 2015</a>. 1:e33.</li> 
+<li><strong>Roberson EDO</strong>. Identification of high-efficiency 3GG gRNA motifs in indexed FASTA files with ngg2. <a href="https://peerj.com/articles/cs-33.pdf">PeerJ Computer Science 2015</a>. 1:e33. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
 </ol>
 
 <h2>Invited</h2>
