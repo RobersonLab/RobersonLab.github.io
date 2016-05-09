@@ -28,7 +28,7 @@ WUStL Masters Student
 </div>
 
 <div id="people">
-img src="images/people_tday_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
+<img src="images/people/tday_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.S.B ,yaD relyT</strong></span><br>
 Part-time Research Intern<br>
 WUStL Masters Student
