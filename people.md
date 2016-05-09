@@ -19,7 +19,7 @@ Postdoc<br>
 Bioinformatics Padawan
 </div>
 
-<h1 id="h1nopad" class="center">Bio[informatics|statistics] Masters Interns and Research Assistants</h1>
+<h1 id="h1nopad" class="center">Bio&#91;informatics&#124;statistics&#93; Masters Interns and Research Assistants</h1>
 <div id="people">
 <img src="images/people/nicole_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.S.B ,murtsegreF elociN</strong> </span><br>
