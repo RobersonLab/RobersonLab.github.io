@@ -7,7 +7,7 @@ description: Main lab website page
 <div id="maintext">
 <blockquote>
 <p><em>
-Our lab is interested in characterizing the genetics underlying human disease risk using sporadic cases, extreme phenotypes and familial disease clusters. We assess the effect of such variation using a combination of genetics, molecular biology, statistics and bioinformatics. Our main interests are inflammatory and autoimmune diseases. 
+Our lab is interested in characterizing the genetics underlying human disease risk using sporadic cases, extreme phenotypes and familial disease clusters. We assess the effect of such variation using a combination of genetics, molecular biology, statistics and bioinformatics. We also explore the molecular basis of human disease with high-throughput technologies to empower personalized treatment of molecularly defined subsets. Our main interests are inflammatory and autoimmune diseases. 
 </em></p>
 </blockquote>
 
@@ -30,9 +30,6 @@ We use statistics and bioinformatics techniques in our research. For statistical
 
 <h1>Cores</h1>
 Part of the lab effort helps to support some core resources available to the general research community. Please contact us if you have any interest in using these core resources.
-
-<h2>RDCC Genetics Core</h2>
-Eli runs the Human Genetics and Bioinformatics component of the Washington University Rheumatic Disease Core Center Genetics Core. We focus on providing general advice, IRB consent consultation, experimental design assistance, data analysis, long-term data storage, and contract lab work. Priority will be given to projects related to Rheumatic disease.
 
 <h2>Thrombomicroangiopathy, thrombotic, and thrombolytic disease core</h2>
 This is a core collaboration with the Hematology division. We focus on individual patients with putative clotting / complement disorders, or small cohorts of individuals that may have such disorders. Our typical role is to help provide the design of appropriate pathway oriented capture designs, multiplexed sequencing, genotyping from the NGS data, and interpretation of the detected variants.
