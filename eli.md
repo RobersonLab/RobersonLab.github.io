@@ -11,15 +11,15 @@ layout: page
 <div id="maintext">
 <h1>Around the web</h1>
 <a href="http://www.rheumatology.wustl.edu/faculty/research-faculty/eroberson.html">Faculty page</a><br>
-<a href="http://bit.ly/1qtMKRz">FigShare</a><br>
-<a href="http://bit.ly/1kKmRfk">Google Scholar</a><br>
-<a href="http://bit.ly/N4pHg6">ORCiD</a><br>
-<a href="http://1.usa.gov/1ia6Hc7">PubMed - Full publication list</a><br>
-<a href="http://bit.ly/1epuxfb">Twitter</a><br>
+<a href="https://figshare.com/authors/Elisha_Roberson/98532">FigShare</a><br>
+<a href="https://scholar.google.com/citations?user=Ny14EfMAAAAJ&hl=en">Google Scholar</a><br>
+<a href="https://orcid.org/0000-0001-5921-2399">ORCiD</a><br>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Roberson+Elisha[au]">PubMed - Full publication list</a><br>
+<a href="https://twitter.com/thatdnaguy">Twitter</a><br>
 
 <h1>Contact Info</h1>
 <h2>Mailing address</h2>
-Elisha Roberson, Ph.D., Instructor<br>
+Elisha Roberson, Ph.D., Assistant Professor<br>
 Washington University School of Medicine<br>
 Depts. of Medicine & Genetics<br>
 Division of Rheumatology<br>
