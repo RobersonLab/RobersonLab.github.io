@@ -22,7 +22,7 @@ Bioinformatics Padawan
 <h1 id="h1nopad" class="center">Bio&#91;informatics&#124;statistics&#93; Masters Trainees</h1>
 <div id="people">
 <img src="images/people/nicole_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
-<span class="reverse"> <strong>.S.B ,murtsegreF elociN</strong> </span><br>
+<span class="reverse"> <strong>.S.B ,mortsegreF elociN</strong> </span><br>
 Part-time Research Assistant<br>
 WUStL Masters Student
 </div>
