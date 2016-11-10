@@ -25,7 +25,7 @@ Depts. of Medicine & Genetics<br>
 Division of Rheumatology<br>
 660 South Euclid Ave., CB 8045<br>
 St. Louis, MO 63110<br>
-<span class="reverse"> ude.ltsuw.mod TA osrebore </span>
+<span class="reverse"> ude.ltsuw TA nosrebore </span>
 
 <h2>Shipping Address</h2>
 Roberson Lab<br>
