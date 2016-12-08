@@ -23,7 +23,7 @@ Juvenile dermatomyositis is a rare disease characterized by a heliotrope facial 
 Systemic sclerosis, also known as scleroderma, is a progressive disease that manifests with autoimmune, fibrotic, and vascular features. There is a large degree of heterogeneity among patients with regard to how the disease will progress over time. Patient survival has improved over time, but this disease remains amongst the worst diagnoses in rheumatology. We want help improve the outcome of these patients by 1) defining underlying genetic risk factors for the disease, 2) identifying ways to stratify heterogeneous patient groups into more homogeneous molecular pathologies, and 3) create molecular surrogates for skin scores to measure disease activity over time. This work is possible due to a strong collaboration with the <a href="http://scleroderma.northwestern.edu/">Northwestern University Scleroderma program</a>, and in particular the effort of <a href="http://scleroderma.northwestern.edu/members/profile.html?xid=16719">Dr. John Varga</a>, to collect the many clinical samples necessary for this research.
 
 <h1>Jobs</h1>
-<strong>**Currently we have no salary funded positions available**</strong>
+<strong>We are currently looking for a Senior Research Technician. If you're interested in genetics / genomics research, check the [WUStL Jobs Site](https://jobs.wustl.edu/) for JobID 35306.</strong>
 
 <h1>Code</h1>
 We use statistics and bioinformatics techniques in our research. For statistical analysis we primarily rely on R, and for scripting and programming we tend to use python and C++. You can locate code that we have found useful on the lab <a href="http://github.com/robersonlab">GitHub</a> site.
