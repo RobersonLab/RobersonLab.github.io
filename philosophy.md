@@ -1,6 +1,7 @@
 ---
 title: Lab Philosophy
 layout: page
+description: Expectations and lab philosophy
 ---
 
 <div id="maintext">

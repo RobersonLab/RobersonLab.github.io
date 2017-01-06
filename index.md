@@ -1,13 +1,13 @@
 ---
-title: Home
+title: Research
 layout: main
-description: Main lab website page
+description: Homepage for the Eli Roberson lab. We use genetics and high-throughput technologies to dissect the causes and potential treatments of human autoimmune  and inflammatory diseases.
 ---
 
 <div id="maintext">
 <blockquote>
 <p><em>
-Our lab is interested in characterizing the genetics underlying human disease risk using sporadic cases, extreme phenotypes and familial disease clusters. We assess the effect of such variation using a combination of genetics, molecular biology, statistics and bioinformatics. We also explore the molecular basis of human disease with high-throughput technologies, such as RNA-Seq, to empower personalized treatment of molecularly defined subsets. Our main interests are inflammatory and autoimmune diseases. 
+Our lab is primarily focused on the genetics and genomics of inflammatory and autoimmune disease. Our lab is interested in characterizing the genetics underlying human disease risk using sporadic cases, extreme phenotypes, and familial disease clusters. We assess the effect of genetic variation using a combination of genetics, molecular biology, statistics, and bioinformatics. We use high-throughput technologies, such as RNA-Seq, to discover the molecular determinants of inflammatory disease risk and progression.  
 </em></p>
 </blockquote>
 
@@ -29,6 +29,18 @@ Systemic sclerosis, also known as scleroderma, is a progressive disease that man
 
 <h1>Jobs</h1>
 <strong>We are currently looking for a Senior Research Technician. If you're interested in genetics / genomics research, check the <a href="https://jobs.wustl.edu">WUStL Jobs Site</a> for JobID 35306.</strong>
+
+<br>
+<br>
+Preferred skills
+<ul>
+<li>Experienced in molecular biology lab work</li>
+<li>Comfortable generating next-generation sequencing libraries</li>
+<li>Maintain organized records</li>
+<li>Assure safety compliance</li>
+<li>Assist in the development / optimization of novel genomics methods</li>
+<li>Strong plus if experienced with Linux, R, and Python</li>
+</ul>
 
 <h1>Code</h1>
 We use statistics and bioinformatics techniques in our research. For statistical analysis we primarily rely on R, and for scripting and programming we tend to use python and C++. You can locate code that we have found useful on the lab <a href="http://github.com/robersonlab">GitHub</a> site.

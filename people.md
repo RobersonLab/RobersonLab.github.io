@@ -1,12 +1,13 @@
 ---
 title: People
 layout: page
+description: Current and past members of the Roberson lab
 ---
 
 <div id="maintext">
+<!--
 <h1 id="h1nopad" class="center">Staff</h1>
-See front page for job postings.
-
+-->
 <h1 id="h1nopad" class="center">Trainees</h1>
 <div id="people">
 <span class="reverse"> <strong>.D.hP ,lieH-selaroM divaD</strong> </span><br>
@@ -14,7 +15,9 @@ Postdoc<br>
 Bioinformatics Padawan
 </div>
 
+<!--
 <h1 id="h1nopad" class="center">Bio&#91;informatics&#124;statistics&#93; Masters Trainees</h1>
+-->
 
 <h1 class="center">Alumni</h1>
 <div id="people">
@@ -32,7 +35,7 @@ WUStL Masters Student
 </div>
 
 <div id="people">
-<img src="images/people/li_website_small.jpg" alt="lab members pic" width="156px" height="234px"><br>
+<img src="images/people/li_website_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.D.M ,oaC iL</strong> </span><br>
 Staff Scientist<br>
 All around lab superhero

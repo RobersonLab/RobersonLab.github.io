@@ -1,7 +1,7 @@
 ---
 title: PI
-description: Contact info for PI
 layout: page
+description: Contact information for the Roberson Lab PI.
 ---
 
 <div id="sidebar">
@@ -16,6 +16,7 @@ layout: page
 <a href="https://orcid.org/0000-0001-5921-2399">ORCiD</a><br>
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Roberson+Elisha[au]">PubMed - Full publication list</a><br>
 <a href="https://twitter.com/thatdnaguy">Twitter</a><br>
+<a href="https://github.com/RobersonLab">GitHub</a><br>
 
 <h1>Contact Info</h1>
 <h2>Mailing address</h2>
@@ -34,14 +35,13 @@ ATTN: CSRB 10008 / Eli Roberson<br>
 St. Louis, MO 63110
 
 <h1>Physical Location</h1>
+
 <h2>Lab</h2>
 Clinical Science Research Building (CSRB) 10008<br>
 (314) 454-3634 [phone]<br>
 
 <h2>Office</h2>
 CSRB 10004A<br>
-(314) 362-9736 [phone]<br>
-(314) 362-1366 [fax]<br>
 
 <h1>Selected Publications</h1>
 <h2>Peer-reviewed</h2>
@@ -51,7 +51,7 @@ CSRB 10004A<br>
 <li><strong>Roberson EDO</strong>, Wohler ES, Hoover-Fong JE, Lisi E, Stevens EL, Thomas GS, Leonard J, Hamosh A, Pevsner J. Genomic analysis of partial 21q monosomies with variable phenotypes. Eur J Hum Genet. 2010: 19(2): 235-238. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025784/">PMC3025784</a>.</li>
 <li>Harbour JW, Onken MD, <strong>Roberson EDO</strong>, Duan S, Cao L, Worley LA, Council ML, Matatall KA, Helms C, Bowcock AM. Frequent mutations of <i>BAP1</i> in metastasizing uveal melanomas. Science 2010: 330(6009): 1410-1413. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087380/">PMC3087380</a>.</li>
 <li><strong>Roberson EDO</strong><sup>&dagger;</sup>, Liu Y<sup>&dagger;</sup>, Ryan C, Joyce CE, Duan S, Cao L, Martin A, Liao W, Menter A, Bowcock AM. A subset of methylated CpG sites differentiate psoratic from normal skin. Journal of Investigative Dermatology 2011: 132(3 Pt 1): 583-592. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568942/">PMC3568942</a>.</li>
-<li><strong>Roberson EDO</strong>. Identification of high-efficiency 3GG gRNA motifs in indexed FASTA files with ngg2. <a href="https://peerj.com/articles/cs-33.pdf">PeerJ Computer Science 2015</a>. 1:e33. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
+<li><strong>Roberson EDO</strong>. Identification of high-efficiency 3&#39;GG gRNA motifs in indexed FASTA files with ngg2. <a href="https://peerj.com/articles/cs-33.pdf">PeerJ Computer Science 2015</a>. 1:e33. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
 </ol>
 
 <h2>Invited</h2>

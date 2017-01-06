@@ -3,10 +3,10 @@
 <html>
 
 <head>
-<title>Eli Roberson Lab - {{ page.title }}</title>
+<title>{{ page.title }} | Eli Roberson Lab</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <meta name="author" content="Roberson Lab">
-<meta name="description" content={{ page.description }}>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 </head>
 
