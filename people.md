@@ -21,21 +21,21 @@ Bioinformatics Padawan
 
 <h1 class="center">Alumni</h1>
 <div id="people">
-<img src="images/people/nicole_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
+<img src="images/people/nfergestrom_website_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.S.B ,mortsegreF elociN</strong> </span><br>
 Part-time Research Assistant<br>
 WUStL Masters Student
 </div>
 
 <div id="people">
-<img src="images/people/tday_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
+<img src="images/people/tday_website_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.S.B ,yaD relyT</strong></span><br>
 Part-time Research Intern<br>
 WUStL Masters Student
 </div>
 
 <div id="people">
-<img src="images/people/li_website_small.jpg" alt="lab members pic" width="120px" height="180px"><br>
+<img src="images/people/lcao_website_small.jpg" alt="Li's picture" width="120px" height="180px"><br>
 <span class="reverse"> <strong>.D.M ,oaC iL</strong> </span><br>
 Staff Scientist<br>
 All around lab superhero
