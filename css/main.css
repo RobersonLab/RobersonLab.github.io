@@ -26,6 +26,10 @@ h3 {
 	text-align: center;
 }
 
+img {
+	border-radius: 3%;
+}
+
 #h1nopad {
 	margin-top: 0;
 }
@@ -51,7 +55,7 @@ h3 {
 	padding-top: 0px;
 }
 
-#header img{
+#header img {
 	display: none;
 }
 
@@ -59,12 +63,14 @@ h3 {
 	position: absolute;
 	text-align: center;
 	
-	display:none;
-	
 	top: 50px;
 	left: 0;	
 	
 	height: auto;
+}
+
+#sidebar img {
+	display: none;
 }
 
 #maintext {
@@ -94,14 +100,41 @@ span.reverse {
 	direction: rtl;
 }
 
-#people {
-	width: 300px;
-	height: 300px;
+.gallery_container {
+	position: relative;
+	float: left;
+	
+	div:nth-child(2n) {
+		margin-right: 0;
+	}
+}
+
+.people {
+	text-align: center;
+	
+	float: left;
+	width: 95%;
+	padding: 5px;	
+	height: 275px;
+	
+	margin-right: 5%;
+	margin-bottom: 5%;
+	
+	/*
 	border: solid 1px black;
 	display: inline-block;
+	*/
+}
+
+div.person_descript {
 	padding: 5px;
-	/* /*margin: 0 auto;*/
 	text-align: center;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 @media only screen and (min-width: 700px){
@@ -126,7 +159,7 @@ span.reverse {
 		padding-top: 5px;
 	}
 	
-	#sidebar{
+	#sidebar {
 		top: 155px;
 		min-width: 160px;
 		width: 7%;
@@ -151,6 +184,17 @@ span.reverse {
 	li {
 		margin-bottom: 1.35em;
 	}
+	
+	.people {
+		width: 30%;
+		height: 325px;
+	}
+	
+	.gallery_container {
+		div:nth-child(3n) {
+			margin-right: 0;
+		}
+	}
 }
 
 @media only screen and (min-width: 1400px) {
@@ -166,8 +210,11 @@ span.reverse {
 		font-size: 1.35em;
 	}
 	
-	#sidebar {
+	#sidebar img {
 		display: inline;
+	}
+	
+	#sidebar {
 		padding-top: 15px;
 		padding-bottom: 15px;
 	}
@@ -176,36 +223,15 @@ span.reverse {
 		padding-top: 15px;
 		padding-bottom: 15px
 	}
-
-/*	.people {
-		margin-right: 5%;
-		margin-bottom: 5%;
-		height: 250px;
-		
-		@media (max-width: 800px) {
-			width: 33.33%;
-			
-			&:nth-child(3n) {
-				margin-right: 0;
-			}
+	
+	.people {
+		width: 16%;
+		height: 325px;
+	}
+	
+	.gallery_container {
+		div:nth-child(5n) {
+			margin-right: 0;
 		}
-		
-		@media (min-width: 800px) and (max-width: 1200px) {
-			width: 21.25%;
-			
-			&:nth-child (4n) {
-				margin-right: 0;
-			}
-		}
-		
-		@media (min-width: 1200px) {
-			width: 16%;
-			
-			&:nth-child (5n) {
-				margin-right: 0;
-			}
-		}
-	}*/
+	}
 }
-
-
