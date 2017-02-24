@@ -4,11 +4,10 @@ layout: page
 description: Contact information for the Roberson Lab PI.
 ---
 
-<div id="sidebar">
-<br><img src="images/people/pi.jpg" alt="PI pic" width="125px" height="172px">
-</div>
-
 <div id="maintext">
+
+<img src="images/people/pi.jpg" alt="PI pic" width="125px" height="172px">
+
 <h1>Around the web</h1>
 <a href="http://www.rheumatology.wustl.edu/faculty/research-faculty/eroberson.html">Faculty page</a><br>
 <a href="https://figshare.com/authors/Elisha_Roberson/98532">FigShare</a><br>
