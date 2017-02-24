@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: page
+layout: main
 description: Homepage for the Eli Roberson lab. We use genetics and high-throughput technologies to dissect the causes and potential treatments of human autoimmune  and inflammatory diseases.
 ---
 
