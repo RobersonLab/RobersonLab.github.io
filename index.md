@@ -35,8 +35,3 @@ If you are a student that wants to rotate in the lab, please contact Eli directl
 <h1>Code</h1>
 We use statistics and bioinformatics techniques in our research. For statistical analysis we primarily rely on R, and for scripting and programming we tend to use python and C++. You can locate code that we have found useful on the lab <a href="http://github.com/robersonlab">GitHub</a> site.
 
-<h1>Cores</h1>
-Part of the lab effort helps to support some core resources available to the general research community. Please contact us if you have any interest in using these core resources.
-
-<h2>Thrombomicroangiopathy, thrombotic, and thrombolytic disease core</h2>
-This is a core collaboration with the Hematology division. We focus on individual patients with putative clotting / complement disorders, or small cohorts of individuals that may have such disorders. Our typical role is to help provide the design of appropriate pathway oriented capture designs, multiplexed sequencing, genotyping from the NGS data, and interpretation of the detected variants.
