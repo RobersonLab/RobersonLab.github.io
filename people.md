@@ -19,17 +19,6 @@ description: Current and past members of the Roberson lab
 		</div>
 	</div>
 
-	<div class="people">
-		<div>
-			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
-			<div class="person_descript">
-				<span class="reverse"> <strong>.S.M ,sregdoR lehcaR</strong></span><br>
-				Research Assistant<br>
-				Code Wrangler
-			</div>
-		</div>
-	</div>
-	
 	<div class="clearfix"></div>
 
 <h1 id="h1nopad">Trainees</h1>
@@ -52,6 +41,16 @@ description: Current and past members of the Roberson lab
 -->
 
 <h1 id="h1nopad">Lab Alumni</h1>
+	<div class="people">
+		<div>
+			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
+			<div class="person_descript">
+				<span class="reverse"> <strong>.S.M ,sregdoR lehcaR</strong></span><br>
+				Former Research Assistant<br>
+				In the <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
+			</div>
+		</div>
+	</div>
 
 	<div class="people">
 		<div>
