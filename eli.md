@@ -46,16 +46,11 @@ CSRB 10004A<br>
 <h2>Peer-reviewed</h2>
 <small><sup>&dagger;</sup>Equal contribution</small>
 <ol>
-<li><strong>Roberson EDO</strong> and Pevsner J. Visualization of shared genomic regions and meiotic recombination in high-density SNP data. PLoS ONE 2009: 4(8): e6711. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725774/">PMC2725774</a>.</li>
-<li><strong>Roberson EDO</strong>, Wohler ES, Hoover-Fong JE, Lisi E, Stevens EL, Thomas GS, Leonard J, Hamosh A, Pevsner J. Genomic analysis of partial 21q monosomies with variable phenotypes. Eur J Hum Genet. 2010: 19(2): 235-238. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025784/">PMC3025784</a>.</li>
-<li>Harbour JW, Onken MD, <strong>Roberson EDO</strong>, Duan S, Cao L, Worley LA, Council ML, Matatall KA, Helms C, Bowcock AM. Frequent mutations of <i>BAP1</i> in metastasizing uveal melanomas. Science 2010: 330(6009): 1410-1413. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087380/">PMC3087380</a>.</li>
-<li><strong>Roberson EDO</strong><sup>&dagger;</sup>, Liu Y<sup>&dagger;</sup>, Ryan C, Joyce CE, Duan S, Cao L, Martin A, Liao W, Menter A, Bowcock AM. A subset of methylated CpG sites differentiate psoratic from normal skin. Journal of Investigative Dermatology 2011: 132(3 Pt 1): 583-592. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568942/">PMC3568942</a>.</li>
-<li><strong>Roberson EDO</strong>. Identification of high-efficiency 3&#39;GG gRNA motifs in indexed FASTA files with ngg2. <a href="https://peerj.com/articles/cs-33.pdf">PeerJ Computer Science 2015</a>. 1:e33. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
+<li><strong>Roberson EDO</strong> and Pevsner J. (2009) Visualization of shared genomic regions and meiotic recombination in high-density SNP data. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725774/">PMC2725774</a>.</li>
+<li><strong>Roberson EDO</strong>, Wohler ES, Hoover-Fong JE, Lisi E, Stevens EL, Thomas GS, Leonard J, Hamosh A, Pevsner J. (2010) Genomic analysis of partial 21q monosomies with variable phenotypes. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3025784/">PMC3025784</a>.</li>
+<li>Harbour JW, Onken MD, <strong>Roberson EDO</strong>, Duan S, Cao L, Worley LA, Council ML, Matatall KA, Helms C, Bowcock AM. (2010) Frequent mutations of <i>BAP1</i> in metastasizing uveal melanomas. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087380/">PMC3087380</a>.</li>
+<li><strong>Roberson EDO</strong><sup>&dagger;</sup>, Liu Y<sup>&dagger;</sup>, Ryan C, Joyce CE, Duan S, Cao L, Martin A, Liao W, Menter A, Bowcock AM. (2011) A subset of methylated CpG sites differentiate psoratic from normal skin. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568942/">PMC3568942</a>.</li>
+<li><strong>Roberson EDO</strong>. (2015) Identification of high-efficiency 3&#39;GG gRNA motifs in indexed FASTA files with ngg2. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
 </ol>
-
-<h2>Invited</h2>
-<ol>
-<li><strong>Roberson EDO</strong> and Bowcock AM. Psoriasis genetics: breaking the barrier. Trends in Genetics 2010: 26(9): 415-423. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957827">PMC2957827</a>.</li>
-<li>Varga J and <strong>Roberson EDO</strong>. Genomic advances in systemic sclerosis: it is time for precision. Arthritis and Rheumatology 2015. 67(11):2801-5. PMID: <a href="http://www.pubmed.gov/26239971">26239971</a>.</li>
-</ol>
+<li><strong>Roberson EDO</strong>. (2018) Motif Scraper: a cross-platform, open-source tool for identifying degenerate nucleotide motif matches in FASTA files. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29850891">29850891</a>.</li>
 
