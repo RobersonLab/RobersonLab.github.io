@@ -51,6 +51,6 @@ CSRB 10004A<br>
 <li>Harbour JW, Onken MD, <strong>Roberson EDO</strong>, Duan S, Cao L, Worley LA, Council ML, Matatall KA, Helms C, Bowcock AM. (2010) Frequent mutations of <i>BAP1</i> in metastasizing uveal melanomas. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3087380/">PMC3087380</a>.</li>
 <li><strong>Roberson EDO</strong><sup>&dagger;</sup>, Liu Y<sup>&dagger;</sup>, Ryan C, Joyce CE, Duan S, Cao L, Martin A, Liao W, Menter A, Bowcock AM. (2011) A subset of methylated CpG sites differentiate psoratic from normal skin. PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3568942/">PMC3568942</a>.</li>
 <li><strong>Roberson EDO</strong>. (2015) Identification of high-efficiency 3&#39;GG gRNA motifs in indexed FASTA files with ngg2. PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4750479/">PMC4750479</a>.</li>
-</ol>
 <li><strong>Roberson EDO</strong>. (2018) Motif Scraper: a cross-platform, open-source tool for identifying degenerate nucleotide motif matches in FASTA files. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29850891">29850891</a>.</li>
+</ol>
 
