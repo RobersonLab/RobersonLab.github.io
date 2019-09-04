@@ -24,7 +24,7 @@ description: Current and past members of the Roberson lab
 <h1 id="h1nopad">Trainees</h1>
 	<div class="people">
 		<div>
-			<img src="images/people/blank.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
+			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<span class="reverse"> <strong>.D.hP ,lieH-selaroM divaD</strong> </span><br>
 				Postdoc<br>
@@ -87,7 +87,7 @@ description: Current and past members of the Roberson lab
 
 	<div class="people">
 		<div>
-			<img src="images/people/blank.jpg" alt="E. Lim's lab picture" width="120px" height="180px">
+			<img src="images/people/no_picture.jpg" alt="E. Lim's lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<span class="reverse"> <strong>.D.M ,miL .E</strong></span><br>
 				Former Ped. Rheum. Fellow<br>

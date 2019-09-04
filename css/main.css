@@ -6,21 +6,32 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: sans-serif;
-	font-size: 0.95em;
 }
 
+/*
+h1, h2, h3, h4, h5, h6 {
+	color: #000000;
+}
+*/
 
 h1 {
-	color: #336600;
+	font-size: 1.0em;
+	font-weight: bold;
+	text-decoration: underline;
 }
 
-h2, h3, h4, h5, h6 {
-	color: #0000CC;
+h2 {
+	font-size: 0.95em;
+	font-weight: normal;
+	text-decoration: underline;
 }
 
 h3 {
-	text-decoration: underline;
+	font-size: 0.90em;
+	font-weight: normal;
+	font-style: italic;
 }
+
 
 .center {
 	text-align: center;
@@ -39,7 +50,7 @@ img {
 	
 	text-align: center;
 	font-size: 1.0em;
-	background-color: #C2FFC2; /*#CCFF99;*/
+	background-color: #cccccc; /*#8c8c8c; #CCFF99;*/
 	border-radius: 1em;
 	
 	width: 98%;
