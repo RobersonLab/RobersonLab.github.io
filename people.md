@@ -31,19 +31,10 @@ description: Current and past members of the Roberson lab
 
 	<div class="clearfix"></div>
 
+<!--
+<br>
 <h1 id="h1nopad">Trainees</h1>
-	<div class="people">
-		<div>
-			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
-			<div class="person_descript">
-				<strong>David Morales-Heil, Ph.D.</strong><br>
-				Postdoc<br>
-				Bench genomics & bioinformatics ace
-			</div>
-		</div>
-	</div>
-	
-	<div class="clearfix"></div>
+-->
 
 <!--
 <br>
@@ -51,6 +42,17 @@ description: Current and past members of the Roberson lab
 -->
 
 <h1 id="h1nopad">Lab Alumni</h1>
+	<div class="people">
+		<div>
+			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
+			<div class="person_descript">
+				<strong>David Morales-Heil, Ph.D.</strong><br>
+				Former Postdoc<br>
+				Pfizer
+			</div>
+		</div>
+	</div>
+	
 	<div class="people">
 		<div>
 			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
