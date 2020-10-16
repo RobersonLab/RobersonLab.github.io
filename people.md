@@ -4,10 +4,8 @@ layout: page
 description: Current and past members of the Roberson lab
 ---
 
-<div id="maintext">
-
 <div class="gallery_container">
-<h1 id="h1nopad">Staff</h1>
+	<h1>Staff</h1>
 	<div class="people">
 		<div>
 			<img src="images/people/rmesa_website_small.jpg" alt="R. Mesa lab picture" width="156px" height="234px">
@@ -31,17 +29,17 @@ description: Current and past members of the Roberson lab
 
 	<div class="clearfix"></div>
 
-<!--
-<br>
-<h1 id="h1nopad">Trainees</h1>
--->
+	<!--
+	<br>
+	<h1>Trainees</h1>
+	-->
 
-<!--
-<br>
-<h1 id="h1nopad" class="center">Bio&#91;informatics&#124;statistics&#93; Masters Trainees</h1>
--->
+	<!--
+	<br>
+	<h1 class="center">Bio&#91;informatics&#124;statistics&#93; Masters Trainees</h1>
+	-->
 
-<h1 id="h1nopad">Lab Alumni</h1>
+	<h1>Lab Alumni</h1>
 	<div class="people">
 		<div>
 			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
@@ -109,6 +107,4 @@ description: Current and past members of the Roberson lab
 	</div>
 
 	<div class="clearfix"></div>
-</div>
-
 </div>

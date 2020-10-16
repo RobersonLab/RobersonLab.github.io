@@ -4,7 +4,6 @@ layout: page
 description: Important information regarding expectations for research collaborations
 ---
 
-<div id="maintext">
 Collaboration is essential on many projects. However, collaborations can be difficult to navigate, so it's worth setting out expectations up front.
 
 <h2>Proposing collaborations</h2>

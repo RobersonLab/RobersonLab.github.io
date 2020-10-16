@@ -4,7 +4,6 @@ layout: page
 description: Expectations and lab philosophy
 ---
 
-<div id="maintext">
 <h1 id="h1nopad">General Expectations</h1>
 <h2>Balancing your life</h2>
 Life isn't neatly compartmentalized into work and home. Your life includes both parts, and you have to figure out how to juggle them. This isn't a job where you need to come in and punch the clock. You will have greater day-to-day flexibility than many other professions. I generally expect people to be here approximately normal business hours during the week. Depending on the type of experiments you are running and approaching deadlines you may have to stay late, come in early, or work at home. That's the nature of this job. Find the right balance that fits our lab culture and your life. 

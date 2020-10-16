@@ -1,10 +1,9 @@
 ---
 title: Research
-layout: main
+layout: main_sidebar
 description: Homepage for the Eli Roberson lab. We use genetics and high-throughput technologies to dissect the causes and potential treatments of human autoimmune  and inflammatory diseases.
 ---
 
-<div id="maintext">
 <blockquote>
 <p><em>
 Our lab is primarily focused on the genetics and genomics of inflammatory and autoimmune disease. Our lab is interested in characterizing the genetics underlying human disease risk using sporadic cases, extreme phenotypes, and familial disease clusters. We assess the effect of genetic variation using a combination of genetics, molecular biology, statistics, and bioinformatics. We use high-throughput technologies, such as RNA-Seq, to discover the molecular determinants of inflammatory disease risk and progression.  

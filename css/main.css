@@ -1,37 +1,13 @@
+/* ########################################### */
+/* general */
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-	font-family: sans-serif;
-	font-size: 0.90em;
+	font-family: Helvetica,sans-serif;
 }
-
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: sans-serif;
-}
-
-/*
-h1, h2, h3, h4, h5, h6 {
-	color: #000000;
-}
-*/
-
-h1 {
-	font-size: 1.0em;
-	font-weight: bold;
-	text-decoration: underline;
-}
-
-h2 {
-	font-size: 0.95em;
-	font-weight: normal;
-	text-decoration: underline;
-}
-
-h3 {
-	font-size: 0.90em;
-	font-weight: normal;
-	font-style: italic;
-}
-
 
 .center {
 	text-align: center;
@@ -41,69 +17,47 @@ img {
 	border-radius: 3%;
 }
 
-#h1nopad {
-	margin-top: 0;
+.header img {
+	display: none;
+	border-radius: 0%;
 }
 
-#header {
-	position: absolute;
-	
-	text-align: center;
-	font-size: 1.0em;
-	background-color: #cccccc; /*#8c8c8c; #CCFF99;*/
-	border-radius: 1em;
-	
-	width: 98%;
-	padding-left: 1%;
-	padding-right: 1%;
-	
-	top: 0;
-	left: 0;
-	height: 50px;
-	bottom: 50px;
-	
-	padding-bottom: 5px;
-	padding-top: 0px;
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
 }
 
-#header img {
+h2 {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+h3 {
+	font-weight: normal;
+	font-style: italic;
+}
+
+.sidebar img {
 	display: none;
 }
 
-#sidebar {
-	position: absolute;
-	text-align: center;
-	
-	top: 50px;
-	left: 0;	
-	
-	height: auto;
+.column {
+	float: left;
+	padding: 10px 15px;
 }
 
-#sidebar img {
-	display: none;
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
 }
 
-#maintext {
-	position: absolute;
-	
-	height: auto;
-
-	top: 50px;
-	left: 0;
-	
-	max-width: 98%;
-	
-	width: 98%;
-	padding-left: 1%;
-	padding-right: 1%;
-	
-	padding-top: 5px;
-	padding-bottom: 5px;
+.maintext {
+	width: 100%;
 }
 
-li {
-	margin-bottom: 1.0em;
+.sidebar {
+	width: 100%;
 }
 
 span.reverse {
@@ -111,6 +65,65 @@ span.reverse {
 	direction: rtl;
 }
 
+/* ########################################### */
+/* navbar dropdown css styling */
+
+.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+.nav li {
+	float: left;
+}
+
+.nav li a, .dropbtn {
+	/*display: inline-block;*/
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.nav li a:hover, .dropdown:hover .dropbtn {
+	background-color: red;
+}
+
+.nav li.dropdown {
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black !Important;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+
+.dropdown-content a:hover {
+	background-color: #f1f1f1 !Important;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+/* ########################################### */
+/* image galleries */
 .gallery_container {
 	position: relative;
 	float: left;
@@ -130,11 +143,6 @@ span.reverse {
 	
 	margin-right: 5%;
 	margin-bottom: 5%;
-	
-	/*
-	border: solid 1px black;
-	display: inline-block;
-	*/
 }
 
 div.person_descript {
@@ -143,57 +151,29 @@ div.person_descript {
 }
 
 .clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+	content: "";
+	display: table;
+	clear: both;
 }
 
-@media only screen and (min-width: 700px){
-	body {
-		font-size: 1.15em;
-	}
-	
-	h1, h2, h3, h4, h5, h6 {
-		font-size: 1.25em;
-	}
-	
-	#header img {
+/* ########################################### */
+/* min 700px screen */
+@media only screen and (min-width: 700px) {
+	.header img {
 		display: inline;
 	}
 	
-	#header {
-		font-size: 1.25em;
-
-		height: 155px;
-		bottom: 155px;
-		
-		padding-top: 5px;
+	.sidebar img {
+		display: inline;
 	}
 	
-	#sidebar {
-		top: 155px;
+	.maintext {
+		width: 85%;
+	}
+	
+	.sidebar {
+		width: 15%;
 		min-width: 160px;
-		width: 7%;
-		padding-left: 1%;
-		padding-right: 1%;
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
-	#maintext {
-		top: 155px;
-		left: 10%;
-		
-		max-width: 85%;
-		padding-left: 1%;
-		padding-right: 1%;
-		
-		padding-top: 10px;
-		padding-bottom: 10px;
-	}
-	
-	li {
-		margin-bottom: 1.35em;
 	}
 	
 	.people {
@@ -208,33 +188,9 @@ div.person_descript {
 	}
 }
 
+/* ########################################### */
+/* wide screen */
 @media only screen and (min-width: 1400px) {
-	body {
-		font-size: 1.20em;
-	}
-	
-	h1, h2, h3, h4, h5, h6 {
-		font-size: 1.30em;
-	}
-	
-	#header {
-		font-size: 1.35em;
-	}
-	
-	#sidebar img {
-		display: inline;
-	}
-	
-	#sidebar {
-		padding-top: 15px;
-		padding-bottom: 15px;
-	}
-
-	#maintext {
-		padding-top: 15px;
-		padding-bottom: 15px
-	}
-	
 	.people {
 		width: 16%;
 		height: 325px;
