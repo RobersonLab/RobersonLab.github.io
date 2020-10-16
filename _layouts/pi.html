@@ -3,6 +3,7 @@
 <html>
 
 <head>
+
 <title>{{ page.title }} | Eli Roberson Lab</title>
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/RobersonLab_Bdna_favicon.png">
@@ -10,7 +11,34 @@
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 </head>
 
 <body>
 
+
+{% include navbar.html %}
+
+<div class="row">
+	<div class="column center sidebar">
+	
+	<br>
+	<br>
+	<img src="images/people/pi.jpg" alt="PI pic" width="125px" height="172px">
+	
+	</div>
+
+	<div class="column maintext">
+
+	{{ content }}
+
+	<br>
+	<br>
+
+	</div>
+
+</div>
+
+</body>
+
+</html>
