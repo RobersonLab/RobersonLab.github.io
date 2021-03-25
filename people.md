@@ -16,16 +16,6 @@ description: Current and past members of the Roberson lab
 			</div>
 		</div>
 	</div>
-	<div class="people">
-		<div>
-			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
-			<div class="person_descript">
-				<strong>Charissa Martin, M.S.</strong><br>
-				Bioinformatics Research Analyst<br>
-				Data Tinkerer
-			</div>
-		</div>
-	</div>
 
 	<div class="clearfix"></div>
 
@@ -40,6 +30,16 @@ description: Current and past members of the Roberson lab
 	-->
 
 	<h1>Lab Alumni</h1>
+  <div class="people">
+		<div>
+			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
+			<div class="person_descript">
+				<strong>Charissa Martin, M.S.</strong><br>
+				Former Bioinformatics Research Analyst
+			</div>
+		</div>
+	</div>
+
 	<div class="people">
 		<div>
 			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
@@ -50,7 +50,7 @@ description: Current and past members of the Roberson lab
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="people">
 		<div>
 			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
