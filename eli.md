@@ -19,7 +19,8 @@ Elisha Roberson, Ph.D., Assistant Professor<br>
 Washington University School of Medicine<br>
 Depts. of Medicine & Genetics<br>
 Division of Rheumatology<br>
-660 South Euclid Ave., CB 8045<br>
+660 South Euclid Ave.<br>
+MSC 8045-0020-10<br>
 St. Louis, MO 63110<br>
 <span class="reverse"> ude TOD ltsuw TA nosrebore </span>
 
