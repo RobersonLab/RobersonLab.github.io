@@ -18,7 +18,22 @@ description: Current and past members of the Roberson lab
 	</div>
 
 	<div class="clearfix"></div>
-
+	
+	<br>
+	<h1>Current/Past rotation students</h1>
+	
+	<div class="people">
+		<div>
+			<img src="images/people/no_picture.jpg" alt="Thomas Marsh's lab picture" width="120px" height="180px">
+			<div class="person_descript">
+				<strong>Thomas Marsh</strong>
+				HSG program
+			</div>
+		</div>
+	</div>
+	
+	<div class="clearfix"></div>
+	
 	<!--
 	<br>
 	<h1>Trainees</h1>
