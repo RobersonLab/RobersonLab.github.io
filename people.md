@@ -72,7 +72,7 @@ description: Current and past members of the Roberson lab
 			<div class="person_descript">
 				<strong>Rachel Rodgers, M.S.</strong><br>
 				Then: Bioinformatics Assistant<br>
-				Now <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
+				Now: <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
 			</div>
 		</div>
 	</div>
