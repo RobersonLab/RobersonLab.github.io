@@ -44,7 +44,7 @@ description: Current and past members of the Roberson lab
 	<h1 class="center">Bio&#91;informatics&#124;statistics&#93; Masters Trainees</h1>
 	-->
 
-	<h1>Lab Alumni</h1>
+	<h1>Lab alumni</h1>
   <div class="people">
 		<div>
 			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
