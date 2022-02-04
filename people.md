@@ -26,7 +26,7 @@ description: Current and past members of the Roberson lab
 		<div>
 			<img src="images/people/no_picture.jpg" alt="Thomas Marsh's lab picture" width="120px" height="180px">
 			<div class="person_descript">
-				<strong>Thomas Marsh</strong>
+				<strong>Thomas Marsh</strong><br>
 				HSG program
 			</div>
 		</div>
@@ -50,7 +50,7 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
 			<div class="person_descript">
 				<strong>Charissa Martin, M.S.</strong><br>
-				Former Bioinformatics Research Analyst
+				Then: Bioinformatics Research Analyst
 			</div>
 		</div>
 	</div>
@@ -60,8 +60,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<strong>David Morales-Heil, Ph.D.</strong><br>
-				Former Postdoc<br>
-				Pfizer
+				Then: Postdoc<br>
+				Now: Pfizer
 			</div>
 		</div>
 	</div>
@@ -71,8 +71,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
 			<div class="person_descript">
 				<strong>Rachel Rodgers, M.S.</strong><br>
-				Former Research Assistant<br>
-				In the <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
+				Then: Bioinformatics Research Assistant<br>
+				Now <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
 			</div>
 		</div>
 	</div>
@@ -82,8 +82,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/nfergestrom_website_small.jpg" alt="N. Fergestrom lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<strong>Nicole Fergestrom, M.S.</strong><br>
-				Former Research Assistant<br>
-				Patient outcomes research - Medical College Wisconsin
+				Then: Research Assistant<br>
+				Now: patient outcomes research - Medical College Wisconsin
 			</div>
 		</div>
 	</div>
@@ -93,8 +93,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/tday_website_small.jpg" alt="T. Day lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<strong>Tyler Day, M.S.</strong><br>
-				Former Research Intern<br>
-				Research - University of Washington, Seattle
+				Then: Research Intern<br>
+				Now: Research - UW, Seattle
 			</div>
 		</div>
 	</div>
@@ -104,8 +104,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/lcao_website_small.jpg" alt="L. Cao lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<strong>Li Cao, M.D.</strong><br>
-				Former Staff Scientist<br>
-				Retired
+				Then: Staff Scientist<br>
+				Now: Retired
 			</div>
 		</div>
 	</div>
