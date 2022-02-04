@@ -50,7 +50,7 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
 			<div class="person_descript">
 				<strong>Charissa Martin, M.S.</strong><br>
-				Then: Bioinformatics Research Analyst
+				Then: Bioinformatics Analyst
 			</div>
 		</div>
 	</div>
@@ -71,7 +71,7 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/rrodgers_website_small.jpg" alt="R. Rodgers lab picture" width="156px" height="153px">
 			<div class="person_descript">
 				<strong>Rachel Rodgers, M.S.</strong><br>
-				Then: Bioinformatics Research Assistant<br>
+				Then: Bioinformatics Assistant<br>
 				Now <a href="https://baldridgelab.wustl.edu/">Baldridge</a> & <a href="http://research.peds.wustl.edu/labs/holtz_l/">Holtz</a> labs
 			</div>
 		</div>
@@ -115,8 +115,8 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/no_picture.jpg" alt="E. Lim's lab picture" width="120px" height="180px">
 			<div class="person_descript">
 				<strong>Emilina Lim, M.D.</strong><br>
-				Former Ped. Rheum. Fellow<br>
-				Ped. Rheum at Children's Hospital Orange County
+				Then: Ped. Rheum. Fellow<br>
+				Now: Ped. Rheum at Children's Hospital Orange County
 			</div>
 		</div>
 	</div>
