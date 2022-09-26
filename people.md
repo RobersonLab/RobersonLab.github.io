@@ -20,7 +20,7 @@ description: Current and past members of the Roberson lab
 	<div class="clearfix"></div>
 	
 	<br>
-	<h1>Current/Past rotation students</h1>
+	<h1>Past rotation students</h1>
 	
 	<div class="people">
 		<div>
@@ -50,14 +50,15 @@ description: Current and past members of the Roberson lab
 			<img src="images/people/cmartin_website_small.jpg" alt="C. Martin lab picture" width="196px" height="220px">
 			<div class="person_descript">
 				<strong>Charissa Martin, M.S.</strong><br>
-				Then: Bioinformatics Analyst
+				Then: Bioinformatics Analyst<br>
+				Now: bioMérieux
 			</div>
 		</div>
 	</div>
 
 	<div class="people">
 		<div>
-			<img src="images/people/no_picture.jpg" alt="D. Morales-Heil lab picture" width="120px" height="180px">
+			<img src="images/people/dmoralesheil_website_small.jpg" alt="D. Morales-Heil lab picture" width="145px" height="169px">
 			<div class="person_descript">
 				<strong>David Morales-Heil, Ph.D.</strong><br>
 				Then: Postdoc<br>
@@ -94,7 +95,7 @@ description: Current and past members of the Roberson lab
 			<div class="person_descript">
 				<strong>Tyler Day, M.S.</strong><br>
 				Then: Research Intern<br>
-				Now: Research - UW, Seattle
+				Now: Lab Manager - UW, Seattle
 			</div>
 		</div>
 	</div>
