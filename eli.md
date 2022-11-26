@@ -11,7 +11,7 @@ description: Contact information for the Roberson Lab PI.
 <a href="https://scholar.google.com/citations?user=Ny14EfMAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://orcid.org/0000-0001-5921-2399">ORCiD</a><br>
 <a href="https://twitter.com/thatdnaguy">Twitter</a><br>
-<a href="https://genomic.social/@thatdnaguy">Mastodon</a><br>
+<a rel="me" href="https://genomic.social/@thatdnaguy">Mastodon</a><br>
 <a href="https://github.com/RobersonLab">GitHub</a><br>
 
 <h1>Contact Info</h1>
