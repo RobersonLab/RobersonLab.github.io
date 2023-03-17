@@ -11,6 +11,8 @@ Our lab is primarily focused on translational genomics research of inflammatory 
 </blockquote>
 
 <h1>News</h1>
+* March 2023 - Dr. Dave's association of rare missense variants in the SH3 domain of <i>PSTPIP1</i> officially <a href="https://www.cell.com/hgg-advances/fulltext/S2666-2477(23)00019-2">published</a>
+
 * September 2022 - Dr. Maria Teves <a href="https://pubmed.ncbi.nlm.nih.gov/36116512/">confirmed</a> SPAG17 protein reduced in systemic sclerosis and that mice with reduced SPAG17 protein have increased fibrosis risk
 
 * July 2022 - We posted a <a href="https://www.medrxiv.org/content/10.1101/2022.07.12.22277558v1">MedRxiv preprint</a> of Dr. Dave's research identifying that rare missense variants in <i>PSTPIP1</i> are associated with hidradenitis 
