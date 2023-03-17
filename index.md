@@ -35,7 +35,7 @@ We have collaborated on HS research with Drs. <a href="https://dermatology.wustl
 <h2>Autophagy in primary human mononuclear cells</h2>
 Autophagy, specifically macroautophagy, is way for cells to digest old or damaged proteins and organelles. The process is used in immune response and also varies with age and in response to biological stimuli.
 
-We are interested in identifying transcriptional biomarkers of autophagy by repressing and stimulating autophagy in primary human immune cells. We are using flow cytometry, bulk RNA-Seq, and single-cell RNA-Seq for this work.
+We are interested in identifying transcriptional biomarkers of autophagy by repressing and stimulating autophagy in primary human immune cells. We are using flow cytometry, bulk RNA-Seq, and single-cell RNA-Seq for this work. The project was funded for a second year by the <a href="https://medicine.wustl.edu/news/needlemans-commit-15-million-aimed-at-therapies-for-chronic-diseases/">Phil and Sima Needleman Washington University Center for Autophagy Theurapeutics and Research (WUCATR)</a>.
 
 <h2>Systemic sclerosis</h2>
 Systemic sclerosis (SSc), also known in some forms as scleroderma, is a progressive disease with development of autoantibodies, (sometimes extensive) fibrosis, and vasculopathy. Some people with SSc have limited fibrosis and relatively little progression over time. Other people have extensive skin and internal organ fibrosis that increases in severity over time. There are few treatments available for SSc, and the available treatments often don't work well for all patients. We believe that to develop better treatments we need to understand the molecular aspects of disease onset and progression.
