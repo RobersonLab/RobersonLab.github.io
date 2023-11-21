@@ -24,10 +24,10 @@ description: Current and past members of the Roberson lab
 	
 	<div class="people">
 		<div>
-			<img src="images/people/tmarsh_website_small.jpg" alt="Thomas Marsh's lab picture" width="280px" height="386px">
+			<img src="images/people/tmarsh_website_small.jpg" alt="Thomas Marsh's lab picture" width="125px" height="172px">
 			<div class="person_descript">
 				<strong>Thomas Marsh</strong><br>
-				HSG program
+				HSG program<br>
 				Now: Cruchaga lab
 			</div>
 		</div>
@@ -40,7 +40,7 @@ description: Current and past members of the Roberson lab
 	
 	<div class="people">
 		<div>
-			<img src="images/people/dplatt_website_small.jpg" alt="Derek Platt's lab picture" width="275px" height="278px">
+			<img src="images/people/dplatt_website_small.jpg" alt="Derek Platt's lab picture" width="130px" height="131px">
 			<div class="person_descript">
 				<strong>Derek Platt, Ph.D.</strong><br>
 				MSTP program
